@@ -7,6 +7,8 @@ Here is a list of all the articles and their respective notebooks to follow alon
 1. [Introduction](https://medium.com/@alejandro.aristizabal24/understanding-reinforcement-learning-hands-on-part-1-introduction-44e3b011cf6)
 2. [Multi-Armed Bandits](https://medium.com/@alejandro.aristizabal24/understanding-reinforcement-learning-hands-on-part-2-multi-armed-bandits-526592072bdc) - [Notebook](https://github.com/aristizabal95/Understanding-Reinforcement-Learning-Hands-On/blob/master/Multi-Armed%20Bandits.ipynb)
 
+3. [Non-Stationarity](https://medium.com/@alejandro.aristizabal24/understanding-reinforcement-learning-hands-on-part-3-non-stationarity-544ed094b55) - [Notebook](https://github.com/aristizabal95/Understanding-Reinforcement-Learning-Hands-On/blob/master/Non-Stationarity.ipynb)
+
 ## Dependencies
 This is a list of all the libraries used throughout the repository. They are required for running the examples.
 
