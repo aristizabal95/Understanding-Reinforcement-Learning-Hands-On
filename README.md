@@ -14,7 +14,7 @@ Here is a list of all the articles and their respective notebooks to follow alon
 ## Dependencies
 This is a list of all the libraries used throughout the repository. They are required for running the examples.
 
--Numpy
--Matplotlib
--Gym
--Tqdm
+- Numpy
+- Matplotlib
+- Gym
+- Tqdm
