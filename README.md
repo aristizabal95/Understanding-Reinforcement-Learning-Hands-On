@@ -9,6 +9,8 @@ Here is a list of all the articles and their respective notebooks to follow alon
 
 3. [Non-Stationarity](https://medium.com/@alejandro.aristizabal24/understanding-reinforcement-learning-hands-on-part-3-non-stationarity-544ed094b55) - [Notebook](https://github.com/aristizabal95/Understanding-Reinforcement-Learning-Hands-On/blob/master/Non-Stationarity.ipynb)
 
+4. [Markov Decision Processes](https://medium.com/@alejandro.aristizabal24/understanding-reinforcement-learning-hands-on-markov-decision-processes-7d8469a8a782) - [Notebook](https://github.com/aristizabal95/Understanding-Reinforcement-Learning-Hands-On/blob/master/Markov%20Decision%20Processes.ipynb)
+
 ## Dependencies
 This is a list of all the libraries used throughout the repository. They are required for running the examples.
 
